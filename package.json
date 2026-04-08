@@ -1,0 +1,7 @@
+"dependencies": {
+  "whatsapp-web.js": "latest",
+  "qrcode-terminal": "latest",
+  "axios": "latest",
+  "gtts": "latest",
+  "puppeteer": "latest"
+}
