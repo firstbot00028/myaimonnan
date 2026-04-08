@@ -1,7 +1,15 @@
-"dependencies": {
-  "whatsapp-web.js": "latest",
-  "qrcode-terminal": "latest",
-  "axios": "latest",
-  "gtts": "latest",
-  "puppeteer": "latest"
+{
+  "name": "muthee-ai-fortress",
+  "version": "1.0.0",
+  "description": "Ultimate AI WhatsApp Guardian",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "latest",
+    "qrcode-terminal": "latest",
+    "axios": "latest",
+    "gtts": "latest"
+  }
 }
