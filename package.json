@@ -1,6 +1,14 @@
-"dependencies": {
-  "whatsapp-web.js": "latest",
-  "qrcode-terminal": "latest",
-  "axios": "latest",
-  "gtts": "latest"
+{
+  "name": "muthee-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "whatsapp-web.js": "latest",
+    "qrcode-terminal": "latest",
+    "axios": "latest",
+    "gtts": "latest"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
 }
